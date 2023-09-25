@@ -22,6 +22,6 @@ Country: <a href="">Ukraine</a>
 City: <a href="">Kyiv</a>
 
  <a href="">>></a> <strong>My workstation</strong>
-First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PuCharm,DevC++,CLion</a>
+First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PyCharm,DevC++,CLion</a>
 Second OS: <a href="">Debian</a>            
 </pre>
