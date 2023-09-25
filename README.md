@@ -11,17 +11,17 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 </pre>
 
 <pre>
- ~> <strong>contacts.cs</strong>
-1. My mail box: winjiz107@gmail.com
+ <a href="">>></a> <strong>contacts.cs</strong>
+1. My mail box: <a href="">winjiz107@gmail.com</a>
 2. My telegram: <a href="">@mmenkar</a>
  
- ~> <strong>main_info.cs</strong>
- Name: Kirill
- Age: 17
- Country: Ukraine
- City: Kyiv
+  <a href="">>></a> <strong>main_info.cs</strong>
+ Name: <a href="">Kirill</a>
+ Age: <a href="">17</a>
+ Country: <a href="">Ukraine</a>
+ City: <a href="">Kyiv</a>
 
- ~> <strong>My workstation</strong>
-First OS: Windows 11                  Code Editors: VS2022,PuCharm,DevC++,CLion
-Second OS: Debian(linux)              
+ <a href="">>></a> <strong>My workstation</strong>
+First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PuCharm,DevC++,CLion</a>
+Second OS: <a href="">Debian</a>            
 </pre>
