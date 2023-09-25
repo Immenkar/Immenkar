@@ -13,7 +13,7 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 <pre>
  <a href="">>></a> <strong>contacts.cs</strong>
 1. My mail box: <a href="">winjiz107@gmail.com</a>
-2. My telegram: <label style="color:orange;">@mmenkar</label>
+2. My telegram: <span style="color:orange;">@mmenkar</span>
  
  <a href="">>></a> <strong>main_info.cs</strong>
 Name: <a href="">Kirill</a>
