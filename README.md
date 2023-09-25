@@ -13,7 +13,7 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 <pre>
  ~> <strong>contacts.cs</strong>
 1. My mail box: winjiz107@gmail.com
-2. My telegram: @mmenkar
+2. My telegram: <a>@mmenkar</a>
  
  ~> <strong>main_info.cs</strong>
  Name: Kirill
