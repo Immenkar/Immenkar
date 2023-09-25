@@ -22,8 +22,9 @@ Country: <a href="">Ukraine</a>
 City: <a href="">Kyiv</a>
 
 <a href="">Immenkar:~/info</a> <strong>inrun my_workstation.info</strong>
-First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PyCharm,DevC++,CLion</a>
+First OS: <a href="">Windows 11</a>                  
 Second OS: <a href="">Debian</a>            
+Code Editors: <a href="">VS2022,PyCharm,DevC++,CLion</a>
 </pre>
 
 > [!NOTE]
