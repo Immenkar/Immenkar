@@ -12,8 +12,8 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 
 <pre>
  <a href="">>></a> <strong>contacts.cs</strong>
-1. My mail box: <a href="">winjiz107@gmail.com</a>
-2. My telegram: <code style="color:red">@mmenkar</code>
+> My mail box: <a href="">winjiz107@gmail.com</a>
+> My telegram: <code style="color:red">@mmenkar</code>
  
  <a href="">>></a> <strong>main_info.cs</strong>
 Name: <a href="">Kirill</a>
@@ -25,3 +25,6 @@ City: <a href="">Kyiv</a>
 First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PyCharm,DevC++,CLion</a>
 Second OS: <a href="">Debian</a>            
 </pre>
+
+> [!NOTE]
+> Test.
