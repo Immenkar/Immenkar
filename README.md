@@ -15,11 +15,11 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 1. My mail box: <a href="">winjiz107@gmail.com</a>
 2. My telegram: <a href="">@mmenkar</a>
  
-  <a href="">>></a> <strong>main_info.cs</strong>
- Name: <a href="">Kirill</a>
- Age: <a href="">17</a>
- Country: <a href="">Ukraine</a>
- City: <a href="">Kyiv</a>
+ <a href="">>></a> <strong>main_info.cs</strong>
+Name: <a href="">Kirill</a>
+Age: <a href="">17</a>
+Country: <a href="">Ukraine</a>
+City: <a href="">Kyiv</a>
 
  <a href="">>></a> <strong>My workstation</strong>
 First OS: <a href="">Windows 11</a>                  Code Editors: <a href="">VS2022,PuCharm,DevC++,CLion</a>
