@@ -11,7 +11,7 @@ $$$$$$\ $$ | \_/ $$ |$$ | \_/ $$ |$$$$$$$$\ $$ | \$$ |$$ | \$$\ $$ |  $$ |$$ |  
 </pre>
 
 <pre>
-<a href="">Immenkar:~/info</a> <strong>inrun contacts.info</strong>
+<span style='color: red;'>Immenkar:~/info</span> <strong>inrun contacts.info</strong>
 My mail box: <a href="">winjiz107@gmail.com</a>
 My telegram: <a href="">@mmenkar</a>
  
