@@ -48,7 +48,7 @@ Tasks:<br>
 ## ❔ Contacts
 
 My mail box: winjiz107@gmail.com <br>
-My telegram: @hexsparky
+My telegram: @hexsparkyy
 
 ## 📜 GitHub Stats
 
