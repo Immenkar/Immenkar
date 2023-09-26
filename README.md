@@ -7,6 +7,9 @@
 +#+    +#+ +#+         +#+  +#+         +#+ +#+       +#+     +#+ +#+    +#+ +#+  +#+      +#+    
 #+#    #+# #+#        #+#    #+# #+#    #+# #+#       #+#     #+# #+#    #+# #+#   #+#     #+#    
 ###    ### ########## ###    ###  ########  ###       ###     ### ###    ### ###    ###    ###    </a>
+
+ <span style="color: blue;">This text is blue.</span>
+<span style="color: #FF5733;">This text is orange.</span>
 </pre>
 
 <pre>
@@ -28,4 +31,3 @@ Code Editors: <a href="">VS2022,PyCharm,DevC++,CLion</a>
 
 > [!NOTE]
 > <strong>My work time: (9:00am - 17:00pm)</strong>
-<span style="color: blue;">This text is blue.</span>
