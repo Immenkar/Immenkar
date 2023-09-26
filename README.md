@@ -30,12 +30,12 @@ City: Kyiv
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## :grey_question: Contacts
+## ❔ Contacts
 
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparky
 
-## &#x1f4c8; GitHub Stats
+## 📜 GitHub Stats
 
 <a href="https://github.com/hexsparky">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexsparky&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /><br><br>
