@@ -8,7 +8,9 @@
 #+#    #+# #+#        #+#    #+# #+#    #+# #+#       #+#     #+# #+#    #+# #+#   #+#     #+#    
 ###    ### ########## ###    ###  ########  ###       ###     ### ###    ### ###    ###    ###    </a>
 
- <span style="color: blue;">This text is blue.</span>
+```diff
+- text in red
+<span style="color: blue;">This text is blue.</span>
 <span style="color: #FF5733;">This text is orange.</span>
 </pre>
 
