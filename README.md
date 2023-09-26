@@ -63,7 +63,6 @@ My telegram: @hexsparky
 </a>
 <p></p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hpsunp24ky5ypos3omdc3lels4&count=1)
 
 <p></p>
 
