@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/309d24ce-de3c-45e0-a25d-97039dba4404" width=400 height=20%>
+   <img src="https://media.giphy.com/media/12va1PkLHzeLBK/giphy.gif" width=400 height=20%>
 </p>
 
 # HI!
