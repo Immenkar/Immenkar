@@ -4,7 +4,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <b>I'm a PC software developer with over 5 years of experience.
-During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.</b>
+During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.
 
 - 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studying State University information and communication technologies
@@ -12,7 +12,7 @@ During this time I had a chance to work on many projects from github and project
 - 🖥 𝙸 𝚞𝚜𝚎 Windows 10,Arch Linux
 
 ## :toolbox: Tools
-<b>IDE's:<br>
+IDE's:<br>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -45,7 +45,7 @@ OS:<br>
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-Tasks:<br></b>
+Tasks:<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -53,7 +53,7 @@ Tasks:<br></b>
 
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparkyy
-
+</b>
 ## :spiral_notepad: GitHub Stats
       
 <a href="https://github.com/hexsparky">
