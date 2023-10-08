@@ -2,16 +2,17 @@
    <img src="https://github.com/hexsparky/hexsparky/assets/111631956/106b533b-29f4-4400-96df-333e37476257" width=600 height=350">
 </p>
 
-# HI!
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<b>I'm a PC software developer with over 5 years of experience.
+During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.</b>
 
-Name: Kirill<br>
-Age: 17<br>
-Country: Ukraine<br>
-City: Kyiv
+- 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎓 Studying State University information and communication technologies
+- 🌎 English,Ukrainian,Russian
+- 🖥 𝙸 𝚞𝚜𝚎 Windows 10,Arch Linux
 
-
-## 🔧 Technologies & Tools
-IDE's:<br>
+## :toolbox: Tools
+<b>IDE's:<br>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -44,30 +45,17 @@ OS:<br>
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-Tasks:<br>
+Tasks:<br></b>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## ❔ Contacts
+## :telephone_receiver: Contacts
 
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparkyy
 
-## 📜 GitHub Stats
-
+## :spiral_notepad: GitHub Stats
+      
 <a href="https://github.com/hexsparky">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexsparky&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexsparky&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /><br><br>
 </a>
-
-
-
-<a href="https://github.com/hexsparky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexsparky&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<p></p>
-
-
-<p></p>
-
-> [!NOTE]
-> <strong>My work time: (9:00am - 17:00pm)</strong>
