@@ -1,10 +1,11 @@
 <p align="center">
    <img src="https://github.com/hexsparky/hexsparky/assets/111631956/106b533b-29f4-4400-96df-333e37476257" width=600 height=350">
 </p>
-
+<b>
+   
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<b>I'm a PC software developer with over 5 years of experience.
-During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.</b>
+I'm a PC software developer with over 5 years of experience.
+During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.
 
 - 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studying State University information and communication technologies
@@ -53,6 +54,7 @@ Tasks:<br>
 ## :telephone_receiver: Contacts
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparkyy
+</b>
 
 ## :spiral_notepad: GitHub Stats
       
