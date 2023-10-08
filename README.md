@@ -46,8 +46,7 @@ OS:<br>
 
 Tasks:<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000![output-onlinegiftools](https://github.com/hexsparky/hexsparky/assets/111631956/e89a2ee9-4159-4b39-9625-7a42a38ddec8)
-000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## ❔ Contacts
 
