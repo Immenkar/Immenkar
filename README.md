@@ -4,16 +4,16 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <b>I'm a PC software developer with over 5 years of experience.
-During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.
+During this time I had a chance to work on many projects from github and projects that I created with my own hand, starting from simple computer application cloning, for example, a calculator or notepad on console, to using more professional      libs and using UI in my programs.Between I have experience of writing apps for controlling Windows Registry and Windows apps.For example, changing color folders, setting visibility of explorer tabs and things.</b>
 
 - 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studying State University information and communication technologies
 - 🌎 English,Ukrainian,Russian
 - 🖥 𝙸 𝚞𝚜𝚎 Windows 10,Arch Linux
-</b>
+
 
 ## :toolbox: Tools
-<b>IDE's:<br>
+IDE's:<br>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -49,13 +49,10 @@ OS:<br>
 Tasks:<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-</b>
 
 ## :telephone_receiver: Contacts
-<b>
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparkyy
-</b>
 
 ## :spiral_notepad: GitHub Stats
       
