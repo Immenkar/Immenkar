@@ -10,9 +10,9 @@ During this time I had a chance to work on many projects from github and project
 - 🎓 Studying State University information and communication technologies
 - 🌎 English,Ukrainian,Russian
 - 🖥 𝙸 𝚞𝚜𝚎 Windows 10,Arch Linux
-
+</b>
 ## :toolbox: Tools
-IDE's:<br>
+<b>IDE's:<br>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -48,9 +48,9 @@ OS:<br>
 Tasks:<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+</b>
 ## :telephone_receiver: Contacts
-
+<b>
 My mail box: winjiz107@gmail.com <br>
 My telegram: @hexsparkyy
 </b>
