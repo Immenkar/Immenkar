@@ -1,7 +1,7 @@
 <p align="center">
-   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/5ac6e04f-3a6f-46b2-9e79-fb28a06ea065" width=600 height=350">
-
+   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/567ac1c8-4c18-4692-a5fb-fac73b27b0af" width=600 height=350">
 </p>
+
 
 <b>
    
