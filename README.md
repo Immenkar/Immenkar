@@ -1,8 +1,6 @@
 <p align="center">
-   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/26871df5-9e10-452c-b979-1eaa3fa23b18" width=600 height=350">
+   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/d343a8c8-e4b1-404a-a7ea-3ce8b773e712" width=600 height=350">
 </p>
-
-
 <b>
    
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
