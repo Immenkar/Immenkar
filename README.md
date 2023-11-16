@@ -1,6 +1,5 @@
 <p align="center">
-   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/fdba3107-ef79-4e34-bfd4-0bdbd70a2fa8" width=600 height=350">
-
+   <img src="https://github.com/hexsparky/hexsparky/assets/111631956/04a043a5-f4b0-4f3a-8b7f-b15ea3076fc5">
 </p>
 <b>
    
