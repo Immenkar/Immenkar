@@ -46,7 +46,7 @@ Tasks:<br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## :telephone_receiver: Contacts
-My mail box: winjiz107@gmail.com <br>
+My mail box: kirill.dev.csharp@gmail.com <br>
 My telegram: @hexsparkyy
 </b>
 
