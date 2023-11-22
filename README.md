@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/jayhook-dev/jayhook-dev/assets/111631956/130c3f0f-24ef-420d-b0d4-556cb148bd60">
+   <img src="https://github.com/jayhook-dev/jayhook-dev/assets/111631956/bea291a1-9e6d-40a9-bd05-dd86040877e0">
 </p>
 <b>
    
