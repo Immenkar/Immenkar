@@ -1,6 +1,7 @@
 <p align="center">
-   <img src="https://github.com/jayhook-dev/jayhook-dev/assets/111631956/bea291a1-9e6d-40a9-bd05-dd86040877e0">
+   <img src="https://github.com/jayhook-dev/jayhook-dev/assets/111631956/3add4719-9005-481f-af18-3e8dda9a770d">
 </p>
+
 <b>
    
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
