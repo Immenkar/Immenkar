@@ -1,6 +1,4 @@
-<p align="center">
-   <img src="">
-</p>
+
 <b>
 
 <div align="center">
