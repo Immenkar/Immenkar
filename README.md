@@ -4,14 +4,16 @@
 <div align="center">
 
 ## Work
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C&nbsp;Sharp-239120.svg?logo=c-sharp&style=flat)
+![.NET](https://img.shields.io/badge/.NET-512bd4.svg?logo=.net&style=flat)
 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Rider](https://img.shields.io/badge/Rider-000.svg?logo=rider&style=flat)
+![Visual Studio](https://img.shields.io/badge/Visual&nbsp;Studio-5c2d91.svg?logo=visual-studio&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007acc.svg?logo=visual-studio-code&style=flat)
 
 ## OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078d6.svg?logo=windows&style=flat)
+![Android](https://img.shields.io/badge/Android-fff.svg?logo=android&style=flat)
 
 </div>
 
